@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Corona Virus Report Dataset",
+  "description": "Dataset containing global COVID-19 data including confirmed cases, deaths, and recoveries.",
+  "url": "https://www.kaggle.com/datasets/imdevskp/corona-virus-report",
+  "creator": {
+    "@type": "Person",
+    "name": "imdevskp"
+  },
+  "datePublished": "2020",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kaggle"
+  }
+}

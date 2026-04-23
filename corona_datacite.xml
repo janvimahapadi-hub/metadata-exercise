@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4">
+    
+    <identifier identifierType="DOI">10.1234/corona-dataset</identifier>
+
+    <creators>
+        <creator>
+            <creatorName>imdevskp</creatorName>
+        </creator>
+    </creators>
+
+    <titles>
+        <title>Corona Virus Report Dataset</title>
+    </titles>
+
+    <publisher>Kaggle</publisher>
+
+    <publicationYear>2020</publicationYear>
+
+    <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+
+    <descriptions>
+        <description descriptionType="Abstract">
+            This dataset provides information about COVID-19 cases worldwide, including confirmed cases, deaths, and recoveries across different regions.
+        </description>
+    </descriptions>
+
+</resource>
